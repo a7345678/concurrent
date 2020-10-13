@@ -6,9 +6,6 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by yanchun.yyc@alibaba-inc.com on 2017/2/9.
- */
 public class FileUtil {
 
   public static File createFile(String doPath, String saveFileName) throws IOException {
